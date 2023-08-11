@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223332370879",
+    "project_id": "memoverse-4b054",
+    "storage_bucket": "memoverse-4b054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223332370879:android:9146b508ac18c20018790a",
+        "android_client_info": {
+          "package_name": "com.example.memoverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223332370879-h8h9mkhg273k6bkrij3oitkjc9qe7h5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEhXBL0g57fzgihMGTibQbIY6Wcuv1eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223332370879-h8h9mkhg273k6bkrij3oitkjc9qe7h5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
