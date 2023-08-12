@@ -1,5 +1,10 @@
 package com.example.memoverse;
 
+// habib asrib
+// 10120080
+// IF-2
+
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Patterns;
