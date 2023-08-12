@@ -1,5 +1,10 @@
 package com.example.memoverse;
 
+// habib asrib
+// 10120080
+// IF-2
+
+
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
