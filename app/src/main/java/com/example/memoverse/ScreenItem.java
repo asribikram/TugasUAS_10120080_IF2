@@ -1,5 +1,9 @@
     package com.example.memoverse;
 
+    // habib asrib
+    // 10120080
+   // IF-2
+
     public class ScreenItem {
 
         String Title,Description;
